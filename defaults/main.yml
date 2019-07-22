@@ -1,5 +1,5 @@
 ---
-apache_vhosts_sites: []
+apache_vhosts_sites: {}
 apache_vhosts_remove_sites: []
 apache_vhosts_template: "vhost.conf.j2"
 
